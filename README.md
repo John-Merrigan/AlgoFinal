@@ -7,3 +7,14 @@ For this project we are going to tackle the above problem which uses a directed 
 
 Since there are five of us in this group, we want to make sure that each of us are doing a sufficient amount of work that is both challenging and enriching. We have created a shared GitHub repository to which each of us can submit code snippets without crashing the overall program if there is an error. Our plan right now is to each compose a proposed solution to part a), meet on a few occasions to discuss our solutions and ultimately craft one final solution for which we will then solve the big O and run time as requested in part a) and part b). We plan to meet before each of the checkpoints to discuss and report our progress, challenges, and findings.
 
+For Checkpoint 2: 
+
+How many lines of code written
+
+Analysis of complexity for all important parts of the code
+
+Progress on solving theory problem (status of proofs)
+
+What challenges you're facing
+
+Lessons learned so far
